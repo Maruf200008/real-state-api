@@ -5,8 +5,8 @@
       "type": "House",
       "name": "House 1",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/house1.png",
-      "imageLg": "./assets/img/houses/House1lg.png",
+      "image": "/assets/img/houses/house1.png",
+      "imageLg": "/assets/img/houses/House1lg.png",
       "country": "United States",
       "address": "7240C Argyle St. Lawndale, CA 90260",
       "bedrooms": 6,
@@ -15,7 +15,7 @@
       "year": "2016",
       "price": "110000",
       "agent": {
-        "image": "./assets/img/agents/agent1.png",
+        "image": "/assets/img/agents/agent1.png",
         "name": "Patricia Tullert",
         "phone": "0123 456 78910"
       }
@@ -25,8 +25,8 @@
       "type": "House",
       "name": "House 2",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/House2.png",
-      "imageLg": "./assets/img/houses/House2lg.png",
+      "image": "/assets/img/houses/House2.png",
+      "imageLg": "/assets/img/houses/House2lg.png",
       "country": "Canada",
       "address": "798 Talbot St. Bridgewater, NJ 08807",
       "bedrooms": 6,
@@ -35,7 +35,7 @@
       "year": "2016",
       "price": "140000",
       "agent": {
-        "image": "./assets/img/agents/agent2.png",
+        "image": "/assets/img/agents/agent2.png",
         "name": "Daryl Hawker",
         "phone": "0123 456 78910"
       }
@@ -45,8 +45,8 @@
       "type": "House",
       "name": "House 3",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/House3.png",
-      "imageLg": "./assets/img/houses/House3lg.png",
+      "image": "/assets/img/houses/House3.png",
+      "imageLg": "/assets/img/houses/House3lg.png",
       "country": "United States",
       "address": "2 Glen Creek St. Alexandria, VA 22304",
       "bedrooms": 6,
@@ -55,7 +55,7 @@
       "year": "2016",
       "price": "170000",
       "agent": {
-        "image": "./assets/img/agents/agent3.png",
+        "image": "/assets/img/agents/agent3.png",
         "name": "Amado Smith",
         "phone": "0123 456 78910"
       }
@@ -65,8 +65,8 @@
       "type": "House",
       "name": "House 4",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/House4.png",
-      "imageLg": "./assets/img/houses/House4lg.png",
+      "image": "/assets/img/houses/House4.png",
+      "imageLg": "/assets/img/houses/House4lg.png",
       "country": "Canada",
       "address": "84 Woodland St. Cocoa, FL 32927",
       "bedrooms": 6,
@@ -75,7 +75,7 @@
       "year": "2016",
       "price": "200000",
       "agent": {
-        "image": "./assets/img/agents/agent4.png",
+        "image": "/assets/img/agents/agent4.png",
         "name": "Kaitlyn Gonzalez",
         "phone": "0123 456 78910"
       }
@@ -85,8 +85,8 @@
       "type": "House",
       "name": "House 5",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/House5.png",
-      "imageLg": "./assets/img/houses/House5lg.png",
+      "image": "/assets/img/houses/House5.png",
+      "imageLg": "/assets/img/houses/House5lg.png",
       "country": "United States",
       "address": "28 Westport Dr. Warminster, PA 18974",
       "bedrooms": 5,
@@ -95,7 +95,7 @@
       "year": "2015",
       "price": "210000",
       "agent": {
-        "image": "./assets/img/agents/agent5.png",
+        "image": "/assets/img/agents/agent5.png",
         "name": "Grover Robinson",
         "phone": "0123 456 78910"
       }
@@ -105,8 +105,8 @@
       "type": "House",
       "name": "House 6",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/House6.png",
-      "imageLg": "./assets/img/houses/House6lg.png",
+      "image": "/assets/img/houses/House6.png",
+      "imageLg": "/assets/img/houses/House6lg.png",
       "country": "Canada",
       "address": "32 Pawnee Street Butte, MT 59701",
       "bedrooms": 6,
@@ -115,7 +115,7 @@
       "year": "2014",
       "price": "220000",
       "agent": {
-        "image": "./assets/img/agents/agent6.png",
+        "image": "/assets/img/agents/agent6.png",
         "name": "Karen Sorensen",
         "phone": "0123 456 78910"
       }
@@ -125,8 +125,8 @@
       "type": "Apartament",
       "name": "Apartament 1",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/apartments/Apartment1.png",
-      "imageLg": "./assets/img/apartments/Apartment1Lg.png",
+      "image": "/assets/img/apartments/Apartment1.png",
+      "imageLg": "/assets/img/apartments/Apartment1Lg.png",
       "country": "Canada",
       "address": "32 Pawnee Street Butte, MT 59701",
       "bedrooms": 2,
@@ -135,7 +135,7 @@
       "year": "2012",
       "price": "20000",
       "agent": {
-        "image": "./assets/img/agents/agent7.png",
+        "image": "/assets/img/agents/agent7.png",
         "name": "Jawhar Shamil Naser",
         "phone": "0123 456 78910"
       }
@@ -145,8 +145,8 @@
       "type": "Apartament",
       "name": "Apartament 2",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/apartments/Apartment2.png",
-      "imageLg": "./assets/img/apartments/Apartment2Lg.png",
+      "image": "/assets/img/apartments/Apartment2.png",
+      "imageLg": "/assets/img/apartments/Apartment2Lg.png",
       "country": "United States",
       "address": "28 Westport Dr. Warminster, PA 18974",
       "bedrooms": 3,
@@ -155,7 +155,7 @@
       "year": "2011",
       "price": "30000",
       "agent": {
-        "image": "./assets/img/agents/agent8.png",
+        "image": "/assets/img/agents/agent8.png",
         "name": "Juana Douglass",
         "phone": "0123 456 78910"
       }
@@ -165,8 +165,8 @@
       "type": "Apartament",
       "name": "Apartament 3",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/apartments/Apartment3.png",
-      "imageLg": "./assets/img/apartments/Apartment3Lg.png",
+      "image": "/assets/img/apartments/Apartment3.png",
+      "imageLg": "/assets/img/apartments/Apartment3Lg.png",
       "country": "United States",
       "address": "84 Woodland St. Cocoa, FL 32927",
       "bedrooms": 2,
@@ -175,7 +175,7 @@
       "year": "2011",
       "price": "40000",
       "agent": {
-        "image": "./assets/img/agents/agent9.png",
+        "image": "/assets/img/agents/agent9.png",
         "name": "Jerry Schenck",
         "phone": "0123 456 78910"
       }
@@ -185,8 +185,8 @@
       "type": "House",
       "name": "House 7",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/House7.png",
-      "imageLg": "./assets/img/houses/House7lg.png",
+      "image": "/assets/img/houses/House7.png",
+      "imageLg": "/assets/img/houses/House7lg.png",
       "country": "Canada",
       "address": "7240C Argyle St. Lawndale, CA 90260",
       "bedrooms": 5,
@@ -195,7 +195,7 @@
       "year": "2015",
       "price": "117000",
       "agent": {
-        "image": "./assets/img/agents/agent10.png",
+        "image": "/assets/img/agents/agent10.png",
         "name": "Vera Levesque",
         "phone": "0123 456 78910"
       }
@@ -205,8 +205,8 @@
       "type": "House",
       "name": "House 8",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/House8.png",
-      "imageLg": "./assets/img/houses/House8lg.png",
+      "image": "/assets/img/houses/House8.png",
+      "imageLg": "/assets/img/houses/House8lg.png",
       "country": "Canada",
       "address": "798 Talbot St. Bridgewater, NJ 08807",
       "bedrooms": 7,
@@ -215,7 +215,7 @@
       "year": "2019",
       "price": "145000",
       "agent": {
-        "image": "./assets/img/agents/agent11.png",
+        "image": "/assets/img/agents/agent11.png",
         "name": "Sofia Gomes",
         "phone": "0123 456 78910"
       }
@@ -225,8 +225,8 @@
       "type": "House",
       "name": "House 9",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/House9.png",
-      "imageLg": "./assets/img/houses/House9lg.png",
+      "image": "/assets/img/houses/House9.png",
+      "imageLg": "/assets/img/houses/House9lg.png",
       "country": "United States",
       "address": "2 Glen Creek St. Alexandria, VA 22304",
       "bedrooms": 4,
@@ -235,7 +235,7 @@
       "year": "2015",
       "price": "139000",
       "agent": {
-        "image": "./assets/img/agents/agent12.png",
+        "image": "/assets/img/agents/agent12.png",
         "name": "Raymond Hood",
         "phone": "0123 456 78910"
       }
@@ -245,8 +245,8 @@
       "type": "House",
       "name": "House 10",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/House10.png",
-      "imageLg": "./assets/img/houses/House10lg.png",
+      "image": "/assets/img/houses/House10.png",
+      "imageLg": "/assets/img/houses/House10lg.png",
       "country": "Canada",
       "address": "84 Woodland St. Cocoa, FL 32927",
       "bedrooms": 5,
@@ -265,8 +265,8 @@
       "type": "House",
       "name": "House 11",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/House11.png",
-      "imageLg": "./assets/img/houses/House11lg.png",
+      "image": "/assets/img/houses/House11.png",
+      "imageLg": "/assets/img/houses/House11lg.png",
       "country": "United States",
       "address": "28 Westport Dr. Warminster, PA 18974",
       "bedrooms": 5,
@@ -275,7 +275,7 @@
       "year": "2011",
       "price": "213000",
       "agent": {
-        "image": "./assets/img/agents/agent2.png",
+        "image": "/assets/img/agents/agent2.png",
         "name": "Daryl Hawker",
         "phone": "0123 456 78910"
       }
@@ -285,8 +285,8 @@
       "type": "House",
       "name": "House 12",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/houses/House12.png",
-      "imageLg": "./assets/img/houses/House12lg.png",
+      "image": "/assets/img/houses/House12.png",
+      "imageLg": "/assets/img/houses/House12lg.png",
       "country": "Canada",
       "address": "32 Pawnee Street Butte, MT 59701",
       "bedrooms": 4,
@@ -295,7 +295,7 @@
       "year": "2013",
       "price": "221000",
       "agent": {
-        "image": "./assets/img/agents/agent3.png",
+        "image": "/assets/img/agents/agent3.png",
         "name": "Amado Smith",
         "phone": "0123 456 78910"
       }
@@ -305,8 +305,8 @@
       "type": "Apartament",
       "name": "Apartament 16",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/apartments/Apartment4.png",
-      "imageLg": "./assets/img/apartments/Apartment4Lg.png",
+      "image": "/assets/img/apartments/Apartment4.png",
+      "imageLg": "/assets/img/apartments/Apartment4Lg.png",
       "country": "Canada",
       "address": "32 Pawnee Street Butte, MT 59701",
       "bedrooms": 2,
@@ -315,7 +315,7 @@
       "year": "2011",
       "price": "21000",
       "agent": {
-        "image": "./assets/img/agents/agent4.png",
+        "image": "/assets/img/agents/agent4.png",
         "name": "Kaitlyn Gonzalez",
         "phone": "0123 456 78910"
       }
@@ -325,8 +325,8 @@
       "type": "Apartament",
       "name": "Apartament 17",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/apartments/Apartment5.png",
-      "imageLg": "./assets/img/apartments/Apartment5Lg.png",
+      "image": "/assets/img/apartments/Apartment5.png",
+      "imageLg": "/assets/img/apartments/Apartment5Lg.png",
       "country": "United States",
       "address": "28 Westport Dr. Warminster, PA 18974",
       "bedrooms": 3,
@@ -335,7 +335,7 @@
       "year": "2012",
       "price": "32000",
       "agent": {
-        "image": "./assets/img/agents/agent5.png",
+        "image": "/assets/img/agents/agent5.png",
         "name": "Grover Robinson",
         "phone": "0123 456 78910"
       }
@@ -345,8 +345,8 @@
       "type": "Apartament",
       "name": "Apartament 18",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.",
-      "image": "./assets/img/apartments/Apartment6.png",
-      "imageLg": "./assets/img/apartments/Apartment6Lg.png",
+      "image": "/assets/img/apartments/Apartment6.png",
+      "imageLg": "/assets/img/apartments/Apartment6Lg.png",
       "country": "Canada",
       "address": "84 Woodland St. Cocoa, FL 32927",
       "bedrooms": 3,
@@ -355,7 +355,7 @@
       "year": "2010",
       "price": "38000",
       "agent": {
-        "image": "./assets/img/agents/agent6.png",
+        "image": "/assets/img/agents/agent6.png",
         "name": "Karen Sorensen",
         "phone": "0123 456 78910"
       }
